@@ -1,0 +1,8 @@
+XOR-Convert:
+
+Usage:
+XOR-Convert inputfile_1 inputfile_2 outputfile
+
+The XOR operation is applied to the n-th byte of each inputfile and
+written to the n-th byte of the outputfile. It should be noted that the
+mask_file must be equal or larger than the input_file.
